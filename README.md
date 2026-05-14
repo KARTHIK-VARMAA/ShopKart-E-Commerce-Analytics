@@ -1,6 +1,6 @@
 # ShopKart-E-Commerce-Analytics
-Executive Summary ShopKart is a rapidly growing e-commerce company operating across major Indian cities.\n
-The company sells products across categories such as:\n
+Executive Summary ShopKart is a rapidly growing e-commerce company operating across major Indian cities.
+The company sells products across categories such as:
 -Electronics
 -Fashion
 -Sports
